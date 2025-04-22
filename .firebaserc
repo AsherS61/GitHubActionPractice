@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "githubactionproject",
+    "staging": "githubactionproject"
+  },
+  "targets": {},
+  "etags": {}
+}
